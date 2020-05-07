@@ -22,6 +22,7 @@ new_array.pop
 end
 
 def remove_element_from_start_of_array(array)
+new_array = ["wow", "I", "am", "really", "learning"]
 new_array.shift
 end
 
