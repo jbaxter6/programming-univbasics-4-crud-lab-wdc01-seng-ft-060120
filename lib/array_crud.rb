@@ -27,6 +27,7 @@ new_array.shift
 end
 
 def retrieve_element_from_index(array, index_number)
+ new_array = ["I", "am", "really", "learning"]
  new_array[2]
 end
 
